@@ -1,0 +1,8 @@
+streamlit
+langchain
+chromadb
+langchain_community
+sentence-transformers
+langchain_core
+langgraph
+langchain_chroma
